@@ -1,0 +1,4 @@
+name: VanishAllPlayers
+version: '1'
+main: co.uk.shaypunter.vap.VanishAllPlayers
+author: Shay Punter
