@@ -3,7 +3,7 @@ VanishAllPlayers is a simple, lightweight plugin that automatically makes all pl
 
 This plugin is designed to be used in Lobby / Hub servers.
 
-Download: [link]
+Download: https://www.spigotmc.org/resources/vanishallplayers-designed-for-hub-lobby-servers.79206/
 
 
 ####Contributions
