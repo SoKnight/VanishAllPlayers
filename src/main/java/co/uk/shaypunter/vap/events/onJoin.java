@@ -15,5 +15,4 @@ public class onJoin implements Listener {
 
         Bukkit.getOnlinePlayers().forEach(player -> player.hidePlayer(VanishAllPlayers.getInstance(), e.getPlayer()));
     }
-
 }

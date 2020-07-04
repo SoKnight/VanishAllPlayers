@@ -8,6 +8,7 @@ public class VanishAllPlayers extends JavaPlugin {
     @Override
     public void onEnable() {
         getServer().getPluginManager().registerEvents(new onJoin(), this);
+        new Metrics(this, 8085);
     }
 
     /**
